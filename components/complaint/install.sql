@@ -1,0 +1,2 @@
+INSERT INTO `#__modules` (`id`, `position`, `name`, `title`, `is_external`, `content`, `ordering`, `showtitle`, `published`, `user`, `config`, `original`, `css_prefix`, `cache`, `cachetime`, `cacheint`, `template`)
+VALUES (NULL, 'sidebar', 'Пожаловаться на страницу', 'Пожаловаться на страницу', '1', 'mod_complaint', '0', '0', '1', '0', '---\n', '1', '', '0', '1', 'HOUR', 'module.tpl');
